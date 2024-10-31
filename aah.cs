@@ -1,5 +1,6 @@
 using System;
 
+// 1.5 Easy
 namespace Aah
 {
     internal class Program

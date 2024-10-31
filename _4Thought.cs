@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 
+// 3.2 Medium
 namespace _4thought
 {
     internal class Program

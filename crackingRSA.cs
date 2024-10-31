@@ -1,5 +1,6 @@
 using System;
 
+// 2.0 Easy
 namespace crackingRSA
 {
     internal class Program

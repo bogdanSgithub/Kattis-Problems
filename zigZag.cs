@@ -1,5 +1,6 @@
 using System;
 
+// 4.1 Medium
 namespace Zigzag
 {
     internal class Program

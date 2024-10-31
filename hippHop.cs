@@ -1,4 +1,5 @@
 using System;
+// 1.1 Easy
 namespace HippHipp
 {   
     class Program
